@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Ignacio
+Rut: 196959947
